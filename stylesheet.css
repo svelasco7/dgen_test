@@ -1,0 +1,36 @@
+.main {
+	padding: 10px;
+}
+
+th {
+	font-family: Palatino;
+	cursor: pointer;
+}
+a.green{
+	color: #157B00;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+body {
+	background: url(image.jpg);
+	background-size: 1000px;
+	background-repeat: no-repeat;
+	background-position: center 100px;
+	background-color: #EFEEEE;
+}
+
+
+
+
+div.transbox {
+    margin: 58px 63px 0px 63px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    text-align: center;
+}
