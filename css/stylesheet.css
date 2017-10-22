@@ -1,0 +1,48 @@
+.main {
+	padding: 10px;
+}
+
+th {
+	font-family: Palatino;
+	cursor: pointer;
+}
+a.green{
+	color: #157B00;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+}
+a:active {
+    background-color: transparent;
+    text-decoration: underline;
+}
+body {
+	background: url(image.jpg);
+	background-size: 90%;
+	background-repeat: no-repeat;
+	background-position: center 100px;
+	background-color: #EFEEEE;
+}
+
+div.transbox {
+    margin: 58px 63px 0px 63px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    text-align: center;
+}

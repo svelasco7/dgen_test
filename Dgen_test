@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html> 
   <head> 
-    <title> DGEN</title> 
-      <h1>DGEN</h1>
-
+    <title> DGEN! </title> 
+      <p>{{comment_request.comment}}</p>
       Your Name: <input type="text" name="fname" required>
       <input type="hidden" name="requestid" value={{requestid}}>
     <script src= "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
