@@ -2105,6 +2105,21 @@
 		padding: 7.5em 0 2em 0;
 		cursor: default;
 	}
+	.special_events #header{
+		background-image: url("../../images/pic01.jpg");
+	}
+	.flan #header{
+		background-image: url("../../images/pic02.jpg");
+	}
+	.flibrary #header{
+		background-image: url("../../images/pic08.jpg");
+	}
+	.mentor-program #header{
+		background-image: url("../../images/pic04.jpg");
+	}
+	.opp-fund #header{
+		background-image: url("../../images/pic05.jpg");
+	}
 
 		#header:before {
 			content: '';
