@@ -1549,7 +1549,16 @@
 	}
 
 /* Basic */
+	#survey{
+		background-color: #E9E8E8;
+		text-align: center;
+		display: block;
 
+	}
+
+	#tabbed{
+		padding-left: 4em;
+	}
 	body {
 		background: #f0f4f4;
 		color: #5b5b5b;
